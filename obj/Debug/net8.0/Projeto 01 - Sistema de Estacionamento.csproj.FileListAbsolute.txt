@@ -1,0 +1,14 @@
+C:\Users\Arthur\Documents\DIO\Projeto 01 - Sistema de Estacionamento\bin\Debug\net8.0\Projeto 01 - Sistema de Estacionamento.exe
+C:\Users\Arthur\Documents\DIO\Projeto 01 - Sistema de Estacionamento\bin\Debug\net8.0\Projeto 01 - Sistema de Estacionamento.deps.json
+C:\Users\Arthur\Documents\DIO\Projeto 01 - Sistema de Estacionamento\bin\Debug\net8.0\Projeto 01 - Sistema de Estacionamento.runtimeconfig.json
+C:\Users\Arthur\Documents\DIO\Projeto 01 - Sistema de Estacionamento\bin\Debug\net8.0\Projeto 01 - Sistema de Estacionamento.dll
+C:\Users\Arthur\Documents\DIO\Projeto 01 - Sistema de Estacionamento\bin\Debug\net8.0\Projeto 01 - Sistema de Estacionamento.pdb
+C:\Users\Arthur\Documents\DIO\Projeto 01 - Sistema de Estacionamento\obj\Debug\net8.0\Projeto 01 - Sistema de Estacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arthur\Documents\DIO\Projeto 01 - Sistema de Estacionamento\obj\Debug\net8.0\Projeto 01 - Sistema de Estacionamento.AssemblyInfoInputs.cache
+C:\Users\Arthur\Documents\DIO\Projeto 01 - Sistema de Estacionamento\obj\Debug\net8.0\Projeto 01 - Sistema de Estacionamento.AssemblyInfo.cs
+C:\Users\Arthur\Documents\DIO\Projeto 01 - Sistema de Estacionamento\obj\Debug\net8.0\Projeto 01 - Sistema de Estacionamento.csproj.CoreCompileInputs.cache
+C:\Users\Arthur\Documents\DIO\Projeto 01 - Sistema de Estacionamento\obj\Debug\net8.0\Projeto 01 - Sistema de Estacionamento.dll
+C:\Users\Arthur\Documents\DIO\Projeto 01 - Sistema de Estacionamento\obj\Debug\net8.0\refint\Projeto 01 - Sistema de Estacionamento.dll
+C:\Users\Arthur\Documents\DIO\Projeto 01 - Sistema de Estacionamento\obj\Debug\net8.0\Projeto 01 - Sistema de Estacionamento.pdb
+C:\Users\Arthur\Documents\DIO\Projeto 01 - Sistema de Estacionamento\obj\Debug\net8.0\Projeto 01 - Sistema de Estacionamento.genruntimeconfig.cache
+C:\Users\Arthur\Documents\DIO\Projeto 01 - Sistema de Estacionamento\obj\Debug\net8.0\ref\Projeto 01 - Sistema de Estacionamento.dll
